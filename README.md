@@ -8,10 +8,8 @@ This repository houses my contributions to MathWorks' Excellence in Innovation [
 ## Project Description
 The project delves into the feasibility and efficiency of green hydrogen as a sustainable energy storage solution in microgrids. It includes detailed modeling of unitized regenerative fuel cell (URFC) documented in `report.mlx` for in-depth understanding and provides a `microgrid.slx` file for simulation to analyze the system's behavior and performance, thus fostering advancements in sustainable energy practices.
 
-## Authors
-- **Michael Barbosa** - Graduate Student, Federal University of Santa Catarina
-- **Gustavo de Andrade** - Supervisor, Federal University of Santa Catarina
-
+## Author
+- **Sai Venkat Kongara** - Graduate Student
 ## Dependencies
 
 This project has the following dependencies:
@@ -22,8 +20,6 @@ This project has the following dependencies:
 
 - [Simscape](https://www.mathworks.com/products/simscape.html): Simscape is a multidomain physical modeling and simulation tool that allows you to model and simulate complex systems. It is used in this project to model the regenerative fuel cell and other components of the microgrid system.
 
-## License
-This project is licensed under the [MIT License](LICENSE.md) - see the file for details.
 
 ## How to execute
 
@@ -41,11 +37,6 @@ To run the simulation and analyze the system's behavior and performance, follow 
 
 4. Once the simulation is complete, you can use the [Simulation Data Inspector](https://www.mathworks.com/help/simulink/slref/simulationdatainspector.html) to explore the simulation results or use the scopes insed the lock scopes.
 
-## Demo
-
-The figure below shows the results of the simulation using the default scenario:
-
-![resultado](https://github.com/michaelfsb/green-hydrogen-production/assets/31492967/bd8c92ba-9ee3-412f-8c8d-299203a34cf7)
 
 ## Anylse other operation scenarios
 
@@ -100,13 +91,6 @@ I would like to express my gratitude to the following organizations for their su
 
 I would also like to thank my supervisor, Gustavo de Andrade, for his valuable guidance, expertise, and mentorship throughout this project.
 
-## References
-
-1. C. Ogbonnaya, C. Abeykoon, A. Nasser, and A. Turan, “Unitized regenerative proton exchange membrane fuel cell system for renewable power and hydrogen generation: Modelling, simulation, and a case study,” Cleaner Engineering and Technology, vol. 4, p. 100241, Oct. 2021, doi: 10.1016/j.clet.2021.100241.
-
-2. G. A. De Andrade, P. R. Da Costa Mendes, J. G. G. Clúa, and J. E. Normey‐Rico, “Control of a grid assisted PV-H2 production system: A comparative study between optimal control and hybrid MPC,” Journal of Process Control, vol. 92, pp. 220–233, Aug. 2020, doi: 10.1016/j.jprocont.2020.06.008.
-
-3. E. Batzelis, G. Anagnostou, C. Chakraborty, and B. Pal, “Computation of the Lambert W function in photovoltaic modeling,” in Lecture notes in electrical engineering, 2020, pp. 583–595. doi: 10.1007/978-3-030-37161-6_44.
 
 
 
