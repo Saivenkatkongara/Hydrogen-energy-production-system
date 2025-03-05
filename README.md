@@ -82,15 +82,6 @@ If you would like to contribute to this project, please follow these steps:
 
 5. Open a pull request to submit your changes for review.
 
-## Acknowledgments
-I would like to express my gratitude to the following organizations for their support and contributions to this project:
-
-- MathWorks for providing the opportunity to work on this project and for their continuous support and guidance.
-
-- The Federal University of Santa Catarina for their support in my academic endeavors and for providing the necessary resources and facilities for conducting this research.
-
-I would also like to thank my supervisor, Gustavo de Andrade, for his valuable guidance, expertise, and mentorship throughout this project.
-
 
 
 
